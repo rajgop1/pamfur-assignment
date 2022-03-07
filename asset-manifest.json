@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pamfur-assignment/static/css/main.41712fa4.css",
+    "main.js": "/pamfur-assignment/static/js/main.a39d305f.js",
+    "static/media/Group1.png": "/pamfur-assignment/static/media/Group1.7b93f12e0a8807e8cb13.png",
+    "index.html": "/pamfur-assignment/index.html",
+    "main.41712fa4.css.map": "/pamfur-assignment/static/css/main.41712fa4.css.map",
+    "main.a39d305f.js.map": "/pamfur-assignment/static/js/main.a39d305f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41712fa4.css",
+    "static/js/main.a39d305f.js"
+  ]
+}
