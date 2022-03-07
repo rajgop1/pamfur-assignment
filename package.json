@@ -1,5 +1,4 @@
-{  "homepage": "https://rajgop1.github.io/pamfur-assignment",
-  "name": "pamfur_assignment",
+{ "name": "pamfur_assignment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
