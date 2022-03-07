@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.greeting{
+color:   rgba(74, 74, 74, 1);
+
+}
+.message{
+  color: rgba(74, 74, 74, 1);
+}

@@ -1,0 +1,36 @@
+.card-data{
+    min-width:200px;
+    height:110px;
+    box-sizing: border-box;
+    background-color: #FFE0E0;
+    border-radius: 20px;
+    border-left:10px solid #FF9999;
+    padding: 5px;
+}
+
+.card-heading{
+
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.card-event-photo{
+    height:35px;
+    width: 35px;
+    background-color: rgb(127, 127, 243);
+    border-radius: 50%;
+
+    border: 1.3px solid white;
+    position: relative;
+    left:20px;
+}
+.card-photo-container{
+    display: flex;
+    margin: 5px 0px;
+}
+.remaining{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
