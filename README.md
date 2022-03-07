@@ -18,7 +18,7 @@
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1cIL-lHRLnpWaDp7BAS91AahOr5aFZvOz)
 
 ## Run this project
--Simply Click on this link [pamfur-assignment by raj gopal](https://github.com/rajgop1/pamfur-assignment)
+-Simply Click on this link [pamfur-assignment by raj gopal](https://rajgop1.github.io/pamfur-assignment/)
 ## Techonologies Used
 - React JS
 - CSS
